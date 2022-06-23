@@ -1,0 +1,69 @@
+.footer-wrap{
+    margin-top: 0px;
+    width: 100%;
+    height: 500px;
+    background-image: url("../vintage-wood-background.jpg");
+    display: flex;
+}
+.footer-wrap img{
+    width: 300px;
+    height: 300px;
+    margin-left: 25px;
+    margin-top: 15px;
+}
+.footer-content{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-left: 25px;
+    width: 24%;
+    height: 465px;
+    background-color: rgba(245, 222, 179, 0.703);
+}
+.footer-content a{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.footer-content h2{
+    margin-left: 5px;
+}
+.footer-content p{
+    margin-left: 5px;
+    font-size: 18px;
+}
+.footer-content img{
+    width: 270px;
+    height: 270px;
+    border-radius: 15px;
+    margin-top: -15px;
+}
+.img-icon{
+    width: 350px;
+    height: 50px;
+    display: flex;
+}
+.img-icon a{
+    width: 60px;
+    height: 50px;
+    margin-left: 15px;
+}
+.img-icon img{
+    width: 45px;
+    height: 45px;
+    border-radius: 10px;
+}
+.legit{
+    font-size: 17px;
+    background-color: rgba(245, 222, 179, 0.703);
+    height: 130px;
+    width: 300px;
+    margin-left: 25px;
+    margin-top: 11px;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+}
+.img-ending{
+    margin-left: 15px;
+}
