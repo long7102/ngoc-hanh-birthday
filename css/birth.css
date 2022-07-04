@@ -8,7 +8,7 @@
   and (min-device-width: 414px) 
   and (max-device-width: 896px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
-      max-height: 896px;
+      max-width: 896px;
 }
  @media screen
   and (min-device-width: 1200px) 
