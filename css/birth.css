@@ -6,14 +6,15 @@
 }
 @media only screen
   and (min-device-width: 414px) 
-  and (max-device-width: 896px) 
+  and (max-device-width: 1280px) 
   and (-webkit-min-device-pixel-ratio: 3) { 
       header{
-          width: 896px;}
+          width: 1024px;}
       body{
-          width: 896px;}
+          width: 1024px;}
       footer{
-          width: 896px;}
+          width: 1024px;}
+      font-size: 18px;
 }
  @media screen
   and (min-device-width: 1200px) 
@@ -26,6 +27,7 @@
           width: 1600px;}
       footer{
           width: 1600px;}
+      font-size: 25px;
 }
 .header{
     width: 100%;
