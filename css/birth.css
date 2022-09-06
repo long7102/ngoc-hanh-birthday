@@ -39,6 +39,7 @@
 }
 .header-left{
     flex-basis: 15%;
+    margin-left: 45px;
 }
 .header-right{
     margin: auto;
@@ -69,8 +70,7 @@
 .logo{
     display: flex;
     margin-right: -10px;
-    align-items: center;
-    
+    align-items: center;    
 }
 .header-right img{
     margin-right: 20px;
