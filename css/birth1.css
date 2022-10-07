@@ -37,9 +37,11 @@
 }
 .para2{
     display: flex;
+    margin-right: 15px;
 }
 .para2 .para{
     margin-left: 25px;
+    width: 50%;
 }
 .para2 img{
     margin-left: 10px;
