@@ -28,7 +28,7 @@
     margin-left: 15px;
 }
 .picture .paragraph{
-    font-size: 18px;
+    font-size: 20px;
     font-family: Courier New;
 }
 .para1{
@@ -39,7 +39,7 @@
     display: flex;
 }
 .para2 .para{
-    margin-left: 35px;
+    margin-left: 25px;
 }
 .para2 img{
     margin-left: 0px;
