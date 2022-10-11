@@ -28,7 +28,7 @@
     margin-left: 15px;
 }
 .picture .paragraph{
-    font-size: 25px;
+    font-size: 22px;
     font-family: Courier New;
 }
 .para1{
@@ -63,7 +63,7 @@
 .para3{
     margin-left: 30px;
     justify-content: center;
-
+    font-size: 22px;
 }
 .doremon p{
     font-size: 25px;
