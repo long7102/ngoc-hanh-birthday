@@ -224,7 +224,7 @@
 }
 .happy p{
     align-items: center;
-    font-size: 14.5px;
+    font-size: 17px;
     float:right;
     font-family: 'Courier New', Courier, monospace;
 }
@@ -266,7 +266,7 @@
     height:450px;
     text-align: center;
     color: wheat;
-    font-size: 14.5px;
+    font-size: 16.5px;
     font-family: 'Courier New', Courier, monospace;
 }
 .end1 p{
